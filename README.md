@@ -1,6 +1,6 @@
 # 📌 Curso de Programación en Java desde Cero
 
-¡Bienvenidos al repositorio del **Taller de Programación en Java desde Cero**! 🚀
+¡Bienvenidos al repositorio del **Taller de Programación en Java desde Cero**! 
 
 Este taller está dirigido a los estudiantes del curso **Matemática para Computación 1** en la **Facultad de Ingeniería de la Universidad de San Carlos de Guatemala**, durante el **primer semestre del 2025**.
 
@@ -28,16 +28,13 @@ Este taller está dirigido a los estudiantes del curso **Matemática para Comput
 - Tipos de datos primitivos: `int`, `double`, `char`, `boolean`
 - Variables y reglas de nomenclatura
 - Operadores aritméticos, lógicos y relacionales
-- Ejemplo práctico
 
 🔹 **Estructuras de Control de Flujo**
 - Sentencias condicionales: `if`, `else if`, `else`, `switch`
-- Ejemplo práctico
 
 🔹 **Introducción a GitHub**
 - ¿Qué es Git y GitHub?
 - Comandos básicos (`init`, `add`, `commit`, `push`)
-- Subir el proyecto creado en NetBeans a GitHub
 
 ---
 
@@ -45,19 +42,16 @@ Este taller está dirigido a los estudiantes del curso **Matemática para Comput
 
 🔹 **Ciclos de Repetición**
 - `for`, `while`, `do-while`
-- Ejemplo práctico
 
 🔹 **Arreglos y Arreglos Multidimensionales**
 - Declaración e inicialización de arreglos
 - Recorrido de arreglos con ciclos
 - Arreglos multidimensionales
-- Ejemplo práctico
 
 🔹 **Métodos y Funciones**
 - Definición de métodos (`void` y con retorno)
 - Métodos con parámetros
 - Métodos que retornan valores
-- Ejemplo práctico
 
 ---
 
@@ -68,18 +62,15 @@ Este taller está dirigido a los estudiantes del curso **Matemática para Comput
 - Clases, atributos y métodos
 - Constructores
 - Creación de clases y objetos
-- Ejemplo práctico
 
 🔹 **Lectura y Escritura de Archivos en Java**
 - Uso de `FileReader` y `BufferedReader` para leer archivos
 - Uso de `FileWriter` para escribir archivos
-- Ejemplo práctico
 
 🔹 **Drag and Drop en NetBeans**
 - Introducción a la interfaz gráfica en Java
 - Uso del editor visual de NetBeans
 - Creación de botones y eventos
-- Ejemplo práctico
 
 ---
 
