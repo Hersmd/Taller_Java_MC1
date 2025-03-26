@@ -4,8 +4,12 @@
 
 Este taller está dirigido a los estudiantes del curso **Matemática para Computación 1** en la **Facultad de Ingeniería de la Universidad de San Carlos de Guatemala**, durante el **primer semestre del 2025**.
 
+
+**Link de la grabación del día 2:** --Pendiente (subiendo)--
+
 📁 **Estructura del repositorio**
 
+- **Ejemplo Proyecto**
 - **Ejemplos Día 1** 🏁
 - **Ejemplos Día 2** 🔄
 - **Ejemplos Día 3** 🎯
