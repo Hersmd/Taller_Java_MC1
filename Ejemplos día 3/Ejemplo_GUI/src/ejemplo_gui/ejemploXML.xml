@@ -1,0 +1,10 @@
+<mapa v="3" val1="x" val2="y" val3="z">
+    <valor min="0">0</valor>
+    <valor min="1">1</valor>
+    <valor min="2">1</valor>
+    <valor min="3">0</valor>
+    <valor min="4">1</valor>
+    <valor min="5">1</valor>
+    <valor min="6">0</valor>
+    <valor min="7">1</valor>
+</mapa>
